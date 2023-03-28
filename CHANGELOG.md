@@ -4,4 +4,4 @@
 
 ## 2.0.0
 
-- Adding Some Features ( Just Jokoing )
+- Adding Some Features ( Just Joking )
