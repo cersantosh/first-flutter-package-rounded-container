@@ -1,4 +1,4 @@
-## first_package
+## rounded_container
 Simple package for showing circular container
 
 ## Getting Started
